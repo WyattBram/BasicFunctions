@@ -1,3 +1,5 @@
+
+//Takes an array of ints and returns the indeces of the two numbers that add up to get the target.
 public class Soultion {
     public int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
